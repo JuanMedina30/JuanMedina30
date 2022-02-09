@@ -7,7 +7,7 @@
 ![](https://img.pixfans.com/2015/09/Gifs-6.gif)
 
 <a href="https://img.pixfans.com" target="_top"><img src="https://img.pixfans.com/2015/09/Gifs-6.gif" width="40" height="15"/></a>
-![](https://www.tijuana.tecnm.mx/wp-content/uploads/2015/01/logo_ITT.png)
+![](R.png)
 
 Algunos datos sobre su mi.
 
