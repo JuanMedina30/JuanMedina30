@@ -6,11 +6,8 @@
 
 ![](https://img.pixfans.com/2015/09/Gifs-6.gif)
 
-<a href="https://img.pixfans.com" target="_top"><img src="https://img.pixfans.com/2015/09/Gifs-6.gif" width="80" height="15"/></a>
+<a href="https://img.pixfans.com" target="_top"><img src="https://img.pixfans.com/2015/09/Gifs-6.gif" width="40" height="15"/></a>
 ![](GHLogoTMP.png)
-
-<!--
-**JuanMedina30/JuanMedina30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Algunos datos sobre su mi.
 
