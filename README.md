@@ -16,6 +16,7 @@ Algunos datos sobre su mi.
 - 🎮 Me gustan los videojuegos
 - 📚 Afcionado en la lectura 
 - 🤔 Me gusta cuestionarme todas las cosas que me rodean
+- ⚔️ Me gusta la mitologia nordica, celta y griega
 - 🎶 Me gusta el nu-metal y el rock en español
 - 😺 Tengo 3 gatos
 - 😄 20 años
@@ -28,3 +29,11 @@ Lenguajes de programación y/o herrmietnas que se medianamente usar:
 -MySql
 -Android Studio
 
+
+Horario escolar
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
