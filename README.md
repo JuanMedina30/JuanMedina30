@@ -9,7 +9,7 @@
 <a href="https://img.pixfans.com" target="_top"><img src="https://img.pixfans.com/2015/09/Gifs-6.gif" width="40" height="25"/></a>
 
 
-![](Discord-Logo.png )
+![](r4.png )
 
 Algunos datos sobre su mi.
 
