@@ -35,6 +35,8 @@ Lenguajes de programación y/o herrmietnas que se medianamente utilizar:
 
 -Android Studio
 
+-HTML
+
 
 Horario escolar
 
