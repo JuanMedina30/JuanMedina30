@@ -18,7 +18,6 @@ Algunos datos sobre su mi.
 - 🎮 Me gustan los videojuegos
 - 📚 Afcionado en la lectura 
 - 🤔 Me gusta cuestionarme todas las cosas que me rodean
-- 😺 Tengo 3 gatos
 - 😄 20 años
 
 Lenguajes de programación y/o herrmietnas que se medianamente utilizar:
