@@ -20,10 +20,8 @@ Algunos datos sobre su mi.
 - 💪 Estoy aprendiendo continuamente
 - 🎮 Me gustan los videojuegos
 - 📚 Afcionado en la lectura 
-- 🤔 Me gusta cuestionarme todas las cosas que me rodean
-- 😄 20 años
 
-Lenguajes de programación y/o herrmietnas que se medianamente utilizar:
+Lenguajes de programación y/o herramientas manejadas:
 
 -Java Eclipse
 
