@@ -11,29 +11,10 @@
 
 <a href="https://img.pixfans.com" target="_top"><img src="https://img.pixfans.com/2015/09/Gifs-6.gif" width="40" height="25"/></a>
 
-
-![](r4.png )
-
 Algunos datos sobre su mi.
 
 - 🔭 Me encuentro estudiando en el Instituto Tecnologico de Tijuana - 6to Semestre
 - 💪 Estoy aprendiendo continuamente
-- 🎮 Me gustan los videojuegos
-- 📚 Afcionado en la lectura 
-
-Lenguajes de programación y/o herramientas manejadas:
-
--Java Eclipse
-
--C#
-
--C++
-
--MySql
-
--Android Studio
-
--HTML
 
 
 Horario escolar
